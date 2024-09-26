@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rsrcflm.github.io/sitemap.rsrcflm.gz
+Sitemap: https://rsrcflm.github.io/app/sitemap.rsrcflm.gz
+Sitemap: https://rsrcflm.github.io/assets/sitemap.rsrcflm.gz
+Sitemap: https://rsrcflm.github.io/css/sitemap.rsrcflm.gz
+Sitemap: https://rsrcflm.github.io/data/sitemap.rsrcflm.gz
+Sitemap: https://rsrcflm.github.io/includes/sitemap.rsrcflm.gz
+Sitemap: https://rsrcflm.github.io/item/sitemap.rsrcflm.gz
+Sitemap: https://rsrcflm.github.io/src/sitemap.rsrcflm.gz
